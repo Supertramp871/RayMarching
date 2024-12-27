@@ -5,4 +5,6 @@ Shader Manipulation: Use hotkeys or winforms menu to tweak the shader fields wri
 Known Issues
 There’s a huge bug that I’m aware of. Since this project uses OpenTK 1.1 and rendering is not done through OpenGL Control:)
 
-![IMG_6029-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7526c6b2-0b7c-4cd5-9fea-253f9eb45af0)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/7526c6b2-0b7c-4cd5-9fea-253f9eb45af0" alt="Bouncing Ball GIF" width="500" />
+</div>
